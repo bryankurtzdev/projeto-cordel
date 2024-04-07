@@ -51,8 +51,9 @@ section {
     padding-bottom: 10vh;
     padding-left: 30px;
     line-height: 2em;
-
+    font-size: 3.5vh;
 }
+
 
 section.normal {
     background-color: white;
@@ -65,7 +66,8 @@ section.imgs {
 }
 section.imgs > p {
     background-color: rgba(0, 0, 0, 0.562);
-    width: 400px;
+    padding: 5px;
+    display: inline-block;
 }
 
 footer {
