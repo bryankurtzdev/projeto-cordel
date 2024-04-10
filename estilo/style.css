@@ -81,6 +81,7 @@ section.imgs > p {
 
 section#img1 {
     background-image: url(/midia/background001.jpg);
+    background-position: right center;
    
 }
 section#img2 {
