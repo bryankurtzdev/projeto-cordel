@@ -80,12 +80,12 @@ section.imgs > p {
 }
 
 section#img1 {
-    background-image: url(/midia/background001.jpg);
+    background-image: url(../midia/background001.jpg);
     background-position: right center;
    
 }
 section#img2 {
-    background-image: url(/midia/background002.jpg);
+    background-image: url(../midia/background002.jpg);
     
 }
 
